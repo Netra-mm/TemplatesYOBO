@@ -1,0 +1,158 @@
+body  
+     {
+ 
+  background-color: black;
+  
+ }
+
+.container-fluid ul li a{
+
+font-size:22px;
+color:#87CEFA; 
+padding: 20px;
+
+}
+
+
+
+
+.container-fluid ul li{
+
+padding: 15px 4px;
+margin:30px;
+
+
+
+}
+
+
+ #click-in {
+
+     border: 1px solid black;
+     width: 300px;
+     height:60px;
+     float:right;
+     background: #F08080;
+     text-align:center;
+     color: black;
+    position:absolute;
+    top:10%;
+    left:75%;
+    padding: 5px 2px;
+
+  }
+
+
+button{
+
+margin-top:10px;
+margin-right:30px;
+float:right;
+color:black;
+font-size:20px;
+
+}
+
+button a{
+
+
+color:black;
+font-size:15px;
+
+}
+
+
+
+
+h4{
+float:right;
+margin-right:120px;
+margin-top:18px;
+
+
+}
+
+#review{
+ 
+ border: 1px solid black;
+   width: 115px;
+   height:70px;
+   padding: 4px 12px;
+
+   background:#40E0D0;
+  color:red;
+ font-size:20px;
+   }
+
+.box1 {
+
+    border: 1px solid black;
+    width: 500px;
+    height:300px;
+    padding: 8px 10px;
+    background: #FF7F50;
+    position:absolute;
+    left:10%;
+    top:35%;
+    background: linear-gradient(235deg, #ff005e, #010615, #fbff00);
+
+
+  }
+
+
+     .edu ul  {
+     
+        display: inline-flex; 
+       margin:  1px;
+        padding:1px;
+
+
+     } 
+
+         .edu ul li {
+ 
+          text-align:center;
+          font-size:12px;
+          margin:3px;
+          cursor: pointer;
+          border: 1px solid ;
+          width: 90px;
+          height:30px;
+          padding: 3px 2px;
+          display: block;
+          background: #FFC0CB;
+       
+   
+        }
+
+
+
+h5{
+color:#00008B;
+font-size:17px;
+
+
+
+}
+
+form{
+
+position:absolute;
+top:35%;
+left:55%;
+
+}
+.view{
+
+   margin-top:12px;
+   width: 93px;
+   height:40px;
+   background:#FF69B4;
+   float:right;
+   font-size:18px;
+ }
+label{
+color:blue;
+font-size:16px;
+
+}
